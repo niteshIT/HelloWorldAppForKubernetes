@@ -1,6 +1,6 @@
 # HelloWorldApp
 1. Clone the Repository
-     git clone https://github.com/your-username/HelloWorldApp.git
+     git clone https://github.com/niteshIT/HelloWorldAppForKubernetes.git
      cd HelloWorldApp
    
 3. Build and Run the Application Locally (Without Docker)
