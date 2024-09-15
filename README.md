@@ -45,7 +45,12 @@
     
 15. Health Checks (Bonus)
     visit: curl http://<minikube-ip>:30007/health
+16. Cleaning Up
+    minikube stop
+    kubectl delete -f deployment.yaml
+    kubectl delete -f service.yaml
 
+    
     
     
 
